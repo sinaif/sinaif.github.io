@@ -1,13 +1,13 @@
 {
-"code":1,
-"msg":"success",
-"data":{
-"appname":"果然好借",
-"appalias":"guorang",
-"status":0,
-"add_time":1560562447,
-"update_time":1562220342,
-"url":"",
-"pendding":0
-}
+  "code":1,
+  "msg":"success",
+  "data":{
+    "appname":"果然好借",
+    "appalias":"guorang",
+    "status":1,
+    "add_time":1560562447,
+    "update_time":1562220342,
+    "url":"",
+    "pendding":0
+  }
 }
